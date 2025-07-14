@@ -27,8 +27,8 @@
               <img src="@/assets/arcticons_password.png" class="icons" style="top: 65px;">
               <input type="password" placeholder="Password" class="forms" v-model="loginForm.password">
 
-              <div>
-                <router-link to="/forgot-password" target="_blank" style="color:black;text-decoration:none">Forgot Password?</router-link>
+              <div style="margin-top: 10px">
+               <p>Forgot Password? <router-link to="/forgot-password" target="_blank" style="">Click here </router-link></p>
               </div>
 
               <div style="margin-top: 62px; justify-content: space-between; align-items: center; display: flex;">
