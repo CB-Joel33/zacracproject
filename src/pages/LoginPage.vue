@@ -1,6 +1,6 @@
 <template>
   <div class="mainbody">
-    <div style="display: grid; grid-template-columns: 0.5fr 0.5fr; height: 100vh; overflow: hidden;">
+    <div class="grid grid-cols-2 h-screen overflow-hidden">
       <div>
         <div style="margin-left: 20%;">
           <div class="heading">
@@ -45,10 +45,10 @@
           </div>
         </div>
       </div>
-
+      
       <div>
         <img src="@/assets/Rectangle 24148.png" alt="" class="toppurple">
-        <div>
+        <div >
           <img src="@/assets/Rectangle 24147.png" alt="" class="middlepurple">
           <img src="@/assets/logos_miro-icon.png" style="position: absolute; top: 20px; left: 1250px; z-index: 3;">
           <img src="@/assets/Group.png" style="position: absolute; top: 127px; left: 1038px; z-index: 3;">

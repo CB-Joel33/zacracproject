@@ -116,7 +116,7 @@
           <p style="margin: 0;margin-top: 6px">Data Analysis with Excel and PowerBi</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -147,7 +147,7 @@
           <p style="margin: 0;margin-top: 6px">  Data Analytics with SQL and PowerBi</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -177,7 +177,7 @@
           <p style="margin: 0;margin-top: 6px">   Data Analytics with Excel and Python</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -207,7 +207,7 @@
           <p style="margin: 0;margin-top: 6px">Data Science with SQL and Python</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -237,7 +237,7 @@
           <p style="margin: 0;margin-top: 6px"> Data Science with Python and Machine Learning</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -267,7 +267,7 @@
           <p style="margin: 0;margin-top: 6px"> Advance Machine learning</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -297,7 +297,7 @@
           <p style="margin: 0;margin-top: 6px">Product Design Foundations</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -327,7 +327,7 @@
           <p style="margin: 0;margin-top: 6px">Intermediate Product Design</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -357,7 +357,7 @@
           <p style="margin: 0;margin-top: 6px">Advanced Product Design</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -387,7 +387,7 @@
           <p style="margin: 0;margin-top: 6px">Project Management Methodology</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -417,7 +417,7 @@
           <p style="margin: 0;margin-top: 6px">Project Management Full course</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -447,7 +447,7 @@
           <p style="margin: 0;margin-top: 6px">Fundamentals of Cybersecurity</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style="display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -477,7 +477,7 @@
           <p style="margin: 0;margin-top: 6px">Ethical Hacking in Cybersecurity</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -507,7 +507,7 @@
           <p style="margin: 0;margin-top: 6px">Defensive Hacking in Cybersecurity</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -537,7 +537,7 @@
           <p style="margin: 0;margin-top: 6px">Front End development</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -567,7 +567,7 @@
           <p style="margin: 0;margin-top: 6px">Back End development </p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -597,7 +597,7 @@
           <p style="margin: 0;margin-top: 6px">Full stack development</p>
         </div>
 
-        <div style="; display: flex; align-items: center; gap: 5px;">
+        <div style=" display: flex; align-items: center; gap: 5px;">
           <img src="@/assets/Frame 85.png" alt="" style="width: 30px; height: 16px;">
           <h6 style="opacity: 0.7; font-size: 12px; margin: 0;">80 people enrolled</h6>
         </div>
@@ -741,7 +741,7 @@
   <img src="@/assets/Frame 61.png"  style="margin-right: -25px "/>
 </div>
 
-      <p style="font-family: 'Matter', sans-serif; font-size: 10px;opacity: 0.7">© Copyright 2022 All Rights Reserved</p>
+      <p style="font-family: 'Matter', sans-serif; font-size: 10px;opacity: 0.7">© Copyright 2025 All Rights Reserved</p>
     </div>
 
     
