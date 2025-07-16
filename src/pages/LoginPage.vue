@@ -95,7 +95,7 @@ async function sign_in(){
  const token = response.data.token;
 localStorage.setItem('token', token);
 localStorage.setItem('loginTime', Date.now());
-router.push('/main-page');
+router.push('/');
    } catch(error)
 
    {
